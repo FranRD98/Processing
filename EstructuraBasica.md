@@ -1,5 +1,6 @@
 # ESTRUCTURA BASICA
 
+```
 void setup(){
           //Solo se ejecuta una vez.
 }
@@ -7,6 +8,7 @@ void setup(){
 void draw(){
           //Se ejecuta varias veces por segundo.
 }
+```
 
 ## PROGRAMACIÓN BASICA
 

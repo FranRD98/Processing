@@ -1,4 +1,4 @@
-ESTRUCTURA BASICA
+# ESTRUCTURA BASICA
 
 void setup(){
           //Solo se ejecuta una vez.
@@ -8,8 +8,7 @@ void draw(){
           //Se ejecuta varias veces por segundo.
 }
 
-- - - - - - - - - - - - - - - - - - - - - - -
-PROGRAMACIÓN BASICA
+## PROGRAMACIÓN BASICA
 
 - size(ancho,alto); //Dibuja una ventana.
 - background(rojo,verde,azul); //Añade color al fondo.
@@ -21,8 +20,7 @@ PROGRAMACIÓN BASICA
 - stroke(rojo,verde,azul); //Agrega el trazo con color.
 - noStroke(); //Elimina el trazo.
 
-- - - - - - - - - - - - - - - - - - - - - - -
-PROGRAMACIÓN PROCEDURAL
+## PROGRAMACIÓN PROCEDURAL
 
 - animación
 - mouseX, mouseY
